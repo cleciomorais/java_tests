@@ -21,5 +21,6 @@ public class GenericTests {
 
 	private static void printB02() {
 		System.out.println("print b02 branch method - linha 1");
+		System.out.println("print b02 branch method - linha 2");
 	}
 }
