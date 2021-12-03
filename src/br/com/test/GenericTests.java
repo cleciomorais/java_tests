@@ -10,6 +10,7 @@ public class GenericTests {
 	private static void printMain() {
 		System.out.println("print main branch method - linha 1");
 		System.out.println("print main branch method - linha 2");
+		System.out.println("print main branch method - linha 3");
 	}
 	
 	private static void printB01() {
