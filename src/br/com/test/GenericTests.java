@@ -4,6 +4,7 @@ public class GenericTests {
 
 	public static void main(String[] args) {
 		printMain();
+		printB01();
 	}
 	
 	private static void printMain() {
@@ -12,7 +13,8 @@ public class GenericTests {
 	}
 	
 	private static void printB01() {
-		System.out.println("print b01 branch method");
+		System.out.println("print b01 branch method - linha b1");
+		System.out.println("print b01 branch method - linha b2");
 	}
 
 }
