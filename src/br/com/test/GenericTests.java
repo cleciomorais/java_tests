@@ -33,5 +33,6 @@ public class GenericTests {
 	private static void printB03() {
 		System.out.println("print b03 branch method - linha 1");
 		System.out.println("print b03 branch method - linha 2");
+		System.out.println("print b03 branch method - linha 3");
 	}
 }
