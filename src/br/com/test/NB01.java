@@ -12,9 +12,11 @@ public class NB01 {
     }
     
     public static void newPrintNB01(){
-        System.out.println("br.com.test.NB01.newPrintNB01() - v1");
-        System.out.println("br.com.test.NB01.newPrintNB01() - v2");
-        System.out.println("br.com.test.NB01.newPrintNB01() - v3");
-        System.out.println("br.com.test.NB01.newPrintNB01() - v4");
+        int arr[] = {1,5,7,9,3,2};
+        
+    	for (int i : arr) {
+    		System.out.println("valor array em [" + i + "] :" + i);
+		}
+        
     }
 }
