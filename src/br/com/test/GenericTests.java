@@ -22,8 +22,6 @@ public class GenericTests {
         
         private static void printNB01(){
             
-            NB01.pirntNB01();
-            
             NB01.newPrintNB01();
             
         }
