@@ -13,6 +13,8 @@ public class NB01 {
     	for (int i : arr) {
     		System.out.println("valor array em [" + i + "] :" + i);
 		}
+    	
+    	System.out.println("processo finalizado em newPrintNB01()");
         
     }
 }
