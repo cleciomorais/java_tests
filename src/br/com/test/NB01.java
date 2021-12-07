@@ -1,0 +1,14 @@
+
+package br.com.test;
+
+/**
+ *
+ * @author clecio.morais
+ */
+public class NB01 {
+ 
+    public static void pirntNB01(){
+        System.out.println("br.com.test.NB01.pirntNB01()");
+    }
+    
+}

@@ -4,12 +4,22 @@ public class GenericTests {
 
 	public static void main(String[] args) {
 		printMain();
+                
+                printNB01();
 	}
 	
 	private static void printMain() {
+            
 		System.out.println("primeiro commit no branch main local netbeans");
                 
                 System.out.println("segundo commit no branch main local netbeans");
+                
 	}
+        
+        private static void printNB01(){
+            
+            NB01.pirntNB01();
+            
+        }
 	
 }
