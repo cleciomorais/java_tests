@@ -24,3 +24,8 @@ hs_err_pid*
 /bin/
 /.classpath
 /.project
+
+/build.xml
+/manifest.mf
+/nbproject/
+/lib/nblibraries.properties
