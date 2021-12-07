@@ -20,6 +20,8 @@ public class GenericTests {
             
             NB01.pirntNB01();
             
+            NB01.newPrintNB01();
+            
         }
 	
 }

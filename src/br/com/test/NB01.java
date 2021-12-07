@@ -11,4 +11,7 @@ public class NB01 {
         System.out.println("br.com.test.NB01.pirntNB01()");
     }
     
+    public static void newPrintNB01(){
+        System.out.println("br.com.test.NB01.newPrintNB01()");
+    }
 }
